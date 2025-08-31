@@ -1,0 +1,24 @@
+{
+  "name": "modern-ui-library",
+  "version": "1.0.0",
+  "description": "A comprehensive set of custom UI components for modern web applications.",
+  "main": "dist/modern-ui-library.js",
+  "style": "dist/modern-ui-library.css",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack serve --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user/modern-ui-library.git"
+  },
+  "keywords": ["ui", "components", "library", "modern"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0",
+    "webpack-dev-server": "^3.0.0"
+  }
+}
