@@ -10,7 +10,7 @@ We welcome contributions to improve this project! Please follow the guidelines b
 - Open a pull request.
 
 ## Reporting Issues
-If you find a bug or have a feature request, please open an issue in the repository before submitting a pull request.
+If you find a bug or have a feature request, please open an issue in the repository **before** submitting a pull request. This helps us manage contributions and ensures that issues are tracked properly.
 
 ## Code of Conduct
 Please note we have a code of conduct. You are expected to follow it in all your interactions with the project.
