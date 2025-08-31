@@ -10,4 +10,4 @@ We welcome contributions to improve this project! Please follow the guidelines b
 - Open a pull request.
 
 ## Code of Conduct
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Please note we have a code of conduct. You are expected to follow it in all your interactions with the project.
