@@ -13,7 +13,7 @@
     "url": "git+https://github.com/user/modern-ui-library.git"
   },
   "keywords": ["ui", "components", "library", "modern"],
-  "author": "Updated Author Name",
+  "author": "New Author Name",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
